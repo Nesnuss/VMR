@@ -1,0 +1,7 @@
+tax_id;Familiy name;Parent;Genome;Natural hosts and features;Baltimore Group;Positive_terms;Negative_terms;min_length;max_length
+10442;Baculoviridae;Lefavirales order;dsDNA;Infect Arthropods, lepidoptera, hymenoptera, diptera, and decapoda ;I;capsid;polymerase,expression,helicase,associated,immediate early gene,ORF 66,P95,VP80,VP1/P95;800;1000
+10442;Baculoviridae;Lefavirales order;dsDNA;Infect Arthropods, lepidoptera, hymenoptera, diptera, and decapoda ;I;chitinase;precursor,ORF41;500;600
+10442;Baculoviridae;Lefavirales order;dsDNA;Infect Arthropods, lepidoptera, hymenoptera, diptera, and decapoda ;I;desmoplakin;agip105,ORF68,ORF112;700;1100
+10442;Baculoviridae;Lefavirales order;dsDNA;Infect Arthropods, lepidoptera, hymenoptera, diptera, and decapoda ;I;DNA ligase;;400;600
+10442;Baculoviridae;Lefavirales order;dsDNA;Infect Arthropods, lepidoptera, hymenoptera, diptera, and decapoda ;I;DNA polymerase;subunit;900;1500
+10442;Baculoviridae;Lefavirales order;dsDNA;Infect Arthropods, lepidoptera, hymenoptera, diptera, and decapoda ;I;helicase;;1100;1300
